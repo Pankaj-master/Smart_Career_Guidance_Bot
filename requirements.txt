@@ -1,0 +1,8 @@
+python-dotenv
+streamlit
+requests
+
+Replace the "YOUR_API_KEY" with an API key from Gemini
+
+To run use - streamlit run Career_Guidance.py 
+In case can't run directly open the folder directory in your respective editor.
